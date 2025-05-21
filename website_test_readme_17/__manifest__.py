@@ -6,7 +6,7 @@
     "website": "Test index",
     "category": "Website",
     "license": "OPL-1",
-    "installable": False,
+    "installable": True,
     "auto_install": False,
     "application": False,
     "price": 100000,
