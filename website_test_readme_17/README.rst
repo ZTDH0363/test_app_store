@@ -67,4 +67,4 @@ Change logs
 Support
 ================================================================
 
-`2BIT AG <https://www.2bit.ch/>`_
+` <https://www.Test index.ch/>`_
